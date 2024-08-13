@@ -77,7 +77,7 @@ export default function Home() {
               ))}
             </div>
             <p className="text-sm text-gray-500 mt-4">
-              Keep this phrase safe and secure. It's the only way to recover your wallet.
+              Keep this phrase safe and secure. Its the only way to recover your wallet.
             </p>
           </div>
         )}
